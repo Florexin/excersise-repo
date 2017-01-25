@@ -1,5 +1,5 @@
 # TeamRepo
-Repository for TeamWork exersice 
+Repository for Tortoae exercise 
 Zdraveite Cvete...! :)
 
 

@@ -1,6 +1,7 @@
 name = Kenan
 name = Georgi
 name = Vladimir
+name = Gosho
 name = Greta
 name = Miroslav
 size = 100
